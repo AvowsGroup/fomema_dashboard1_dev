@@ -8,7 +8,7 @@ default: &default
 
 development:
   <<: *default
-  database: fomema_dashboard
+  database: fomema_dashboard_development
 
 test:
   <<: *default
