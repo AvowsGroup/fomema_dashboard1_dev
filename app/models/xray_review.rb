@@ -1,0 +1,2 @@
+class XrayReview < ApplicationRecord
+end

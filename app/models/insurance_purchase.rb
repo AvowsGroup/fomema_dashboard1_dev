@@ -1,0 +1,2 @@
+class InsurancePurchase < ApplicationRecord
+end
